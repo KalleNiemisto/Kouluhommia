@@ -38,6 +38,7 @@ namespace Laskuja
                 }
                 else
                     Console.WriteLine("String could not be parsed.");
+                Console.WriteLine("Koita uudelleen!.");
             }
         }
     }
