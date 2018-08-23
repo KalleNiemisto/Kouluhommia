@@ -1,0 +1,6 @@
+D:\ohjelmointi\Kouluhommia\Laskuja\bin\Debug\Laskuja.exe.config
+D:\ohjelmointi\Kouluhommia\Laskuja\bin\Debug\Laskuja.exe
+D:\ohjelmointi\Kouluhommia\Laskuja\bin\Debug\Laskuja.pdb
+D:\ohjelmointi\Kouluhommia\Laskuja\obj\Debug\Laskuja.csprojResolveAssemblyReference.cache
+D:\ohjelmointi\Kouluhommia\Laskuja\obj\Debug\Laskuja.exe
+D:\ohjelmointi\Kouluhommia\Laskuja\obj\Debug\Laskuja.pdb
